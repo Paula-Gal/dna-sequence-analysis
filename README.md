@@ -1,7 +1,6 @@
 # DNA Sequence Analysis
 
-A beginner-friendly Python toolkit for learning how DNA works through code.
-Built to grow — start with the basics, add more as you learn.
+A Python toolkit for learning how DNA works through code.
 
 ## What it does
 
@@ -56,12 +55,3 @@ No external libraries needed — pure Python standard library.
 ATGCATGCATGCATGC
 ATGCATGC
 ```
-
-## Ideas for what to add next
-
-- [ ] Sliding-window GC content (see how GC% varies across a long sequence)
-- [ ] Multiple sequence alignment (line up two sequences to find shared regions)
-- [ ] Codon usage analysis (which codons are used most often?)
-- [ ] Visualize nucleotide distribution with `matplotlib`
-- [ ] Search for restriction enzyme cut sites
-- [ ] Load real sequences from NCBI databases
