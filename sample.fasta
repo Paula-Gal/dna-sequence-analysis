@@ -1,0 +1,7 @@
+>gene_alpha Short test gene with a clear start and stop codon
+ATGAAACCCGGGTTTTAA
+>gene_beta Longer sequence spanning two lines
+ATGCGTAACGTTAGCATCG
+ATCGATCGTAGCTAA
+>gene_gamma No stop codon — translation will run to end
+ATGTTCGCAATCGCTAGC
